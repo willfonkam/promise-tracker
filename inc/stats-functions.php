@@ -1,6 +1,6 @@
 <?php
 /*
-Function fetches and retrieves data on promises tracked.
+* Function fetches and retrieves data on promises tracked.
 @params : promise ID
 */
 function pr_get_all_stats($post_id) {
@@ -81,7 +81,7 @@ function pr_get_all_stats($post_id) {
 }
 
 /**
-Retrieves the actions related to a promise and displays them chronologically
+* Retrieves the actions related to a promise and displays them chronologically
 */
 function pr_get_promise_actions( $post_id ) {
 
@@ -148,7 +148,7 @@ function pr_get_promise_actions( $post_id ) {
 }
 
 /*
-Function displays the data in a table
+* Function displays the data in a table
 @params :
 	domaine
 	statut
