@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Promise tracker
 * Description: This plugin allows you to add new promises and to use the different tools provided to track and evaluate them following a system of annotation that goes from 'Realized' to 'Failed' through 'Ongoing'
-* Author: The Dev'tivists
+* Author: Mboa Coders
 * Version: 1.0
 */
 
